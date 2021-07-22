@@ -1,6 +1,8 @@
 # Calendar-App
 Calendar App
 
+This app is used to add, edit or delete events for specific date, time. You can add title/decsription of the event and location.To be able to use this app you need an account.
+
 The file dbConnection is used to connect the program with the MySQL code. You need three things to connect to the database the url of the databese, the username and the password.
 If you want to connect this code to different database you just need to change the url, username and password in the code i.e. you need to connect it to your database.
 
